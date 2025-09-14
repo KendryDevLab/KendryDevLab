@@ -59,7 +59,7 @@
     <a href="https://github.com/KendryDevLab">
         <img src="https://img.icons8.com/?size=100&id=52539&format=png&color=000000" alt="GitHub" width="50">
     </a>
-    <a href="https://discord.com/users/mr.kitty.drk">
+    <a href="https://discord.com/users/_tokaru.zz">
         <img src="https://img.icons8.com/?size=100&id=61604&format=png&color=000000" alt="Discord" width="50">
     </a>
 </div>
